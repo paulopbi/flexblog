@@ -4,7 +4,7 @@
 
 <h3 align="center">
 
-[English](#english) • [Português](#português) • [Website](https://paulpbi.github.io/flexblog/)
+[English](#english) • [Português](#português) • [Website](https://paulopbi.github.io/flexblog/)
 
 </h3>
 
@@ -12,13 +12,13 @@
 
 <h2 align="center">Social Medias - Redes Sociais<br> </h2>
 
-<h3 align="center"><a href="https://www.linkedin.com/in/paulovictorpbi/">
+<h3 align="center"><a href="https://www.linkedin.com/in/paulopbi/">
 Linkedin 
 </a> •
 <a href="https://www.instagram.com/paulopbi_/">
 Instagram 
 </a> •
-<a href="https://github.com/Paulpbi">
+<a href="https://github.com/paulopbi">
 Github
 </a> 
 </h3>
